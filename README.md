@@ -3,6 +3,10 @@
 </p>
 <h1 align="middle">자판기</h1>
 
+## 배포 주소
+https://uteco-vendingmachine.netlify.app/
+
+
 ## 🎯 구현할 기능 목록
 
 ```
